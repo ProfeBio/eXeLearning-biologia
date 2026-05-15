@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605152257275NE464</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260515225727NKXIDE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778878096443</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp7e37rs-04fzc7d5x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA. Proyecto &quot;Exploradores de los ecosistemas&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA. Proyecto &quot;Exploradores de los ecosistemas&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto &quot;Exploradores de los ecosistemas&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA. Proyecto &quot;Exploradores de los ecosistemas&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37rs-04fzc7d5x</odePageId>
+      <odeBlockId>block-1778091238421-uzo7iaqcz</odeBlockId>
+      <blockName>Bienvenidos al proyecto “Exploradores de los ecosistemas&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37rs-04fzc7d5x</odePageId>
+          <odeBlockId>block-1778091238421-uzo7iaqcz</odeBlockId>
+          <odeIdeviceId>idevice-1778091238413-cbv1dc49x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto “Exploradores de los ecosistemas” está diseñado para 1º ESO de Biología y Geología.</p>
+<p>En el aula lo planteo como una situación de aprendizaje en la que el alumnado trabaja de forma progresiva, pasando de la investigación guiada a la creación de un producto final.</p>
+<p>Durante el desarrollo del proyecto he observado que algunos grupos necesitan más apoyo en la organización de la información, por lo que se incluyen pautas visuales y herramientas digitales sencillas.</p>
+<p>El objetivo principal es que el alumnado comprenda los ecosistemas y sea capaz de explicar sus componentes y relaciones utilizando un lenguaje básico científico.</p>
+<p>RECURSOS:<br title="" />- Vídeo introductorio: <a href="https://www.youtube.com/watch?v=9f0d6Y5c7vQ">https://www.youtube.com/watch?v=9f0d6Y5c7vQ</a><br />- Ecosistemas explicación: <a href="https://www.youtube.com/watch?v=3f7gH8k1Q9A">https://www.youtube.com/watch?v=3f7gH8k1Q9A</a><br />- Recurso educativo oficial: <a href="https://www.educacionyfp.gob.es/" title="">https://www.educacionyfp.gob.es/</a></p>
+<p>En mi práctica diaria, suelo reforzar estos contenidos con preguntas guiadas y ejemplos cercanos al entorno del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091238413-cbv1dc49x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto “Exploradores de los ecosistemas” está diseñado para 1º ESO de Biología y Geología.</p>\n<p>En el aula lo planteo como una situación de aprendizaje en la que el alumnado trabaja de forma progresiva, pasando de la investigación guiada a la creación de un producto final.</p>\n<p>Durante el desarrollo del proyecto he observado que algunos grupos necesitan más apoyo en la organización de la información, por lo que se incluyen pautas visuales y herramientas digitales sencillas.</p>\n<p>El objetivo principal es que el alumnado comprenda los ecosistemas y sea capaz de explicar sus componentes y relaciones utilizando un lenguaje básico científico.</p>\n<p>RECURSOS:<br title=\"\" />- Vídeo introductorio: <a href=\"https://www.youtube.com/watch?v=9f0d6Y5c7vQ\">https://www.youtube.com/watch?v=9f0d6Y5c7vQ</a><br />- Ecosistemas explicación: <a href=\"https://www.youtube.com/watch?v=3f7gH8k1Q9A\">https://www.youtube.com/watch?v=3f7gH8k1Q9A</a><br />- Recurso educativo oficial: <a href=\"https://www.educacionyfp.gob.es/\" title=\"\">https://www.educacionyfp.gob.es/</a></p>\n<p>En mi práctica diaria, suelo reforzar estos contenidos con preguntas guiadas y ejemplos cercanos al entorno del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37rz-2x5ddaui6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final del alumnado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37rz-2x5ddaui6</odePageId>
+      <odeBlockId>block-1778092008998-yzj5fmw7z</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37rz-2x5ddaui6</odePageId>
+          <odeBlockId>block-1778092008998-yzj5fmw7z</odeBlockId>
+          <odeIdeviceId>idevice-1778092008996-hawesm472</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final del proyecto consiste en una presentación digital sobre un ecosistema concreto.</p>
+<p>En clase, el alumnado suele tener dificultades al sintetizar la información, por lo que se les proporciona una estructura guía para facilitar el trabajo.</p>
+<p>El producto debe incluir:<br />- Tipo de ecosistema<br />- Factores bióticos y abióticos<br />- Relaciones entre seres vivos<br />- Ejemplos visuales<br />- Conclusión final del grupo</p>
+<p>La exposición se realiza en grupo, favoreciendo la comunicación oral y el uso de recursos digitales.</p>
+<p>RECURSOS:<br title="" />- Canva educativo: <a href="El%20producto%20final%20consistirá%20en%20una%20presentación%20digital%20sobre%20un%20ecosistema%20concreto.%20%20El%20alumnado%20deberá%20incluir:%20-%20Tipo%20de%20ecosistema%20-%20Componentes%20bióticos%20y%20abióticos%20-%20Relaciones%20entre%20seres%20vivos%20-%20Imágenes%20o%20esquemas%20-%20Conclusiones%20del%20trabajo%20%20La%20presentación%20se%20realizará%20en%20grupos%20y%20se%20expondrá%20al%20resto%20de%20la%20clase.%20%20RECURSOS:%20-%20Canva%20educativo:%20https://www.canva.com/es_es/educacion/%20-%20Genially:%20https://genial.ly/es/%20-%20Ejemplos%20de%20presentaciones:%20https://www.slideshare.net/">https://www.canva.com/es_es/educacion/</a><br />- Genially:<a href="https://genial.ly/es/"> https://genial.ly/es/</a><br />- Ejemplos de presentaciones: <a href="https://www.slideshare.net/" title="">https://www.slideshare.net/</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092008996-hawesm472","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final del proyecto consiste en una presentación digital sobre un ecosistema concreto.</p>\n<p>En clase, el alumnado suele tener dificultades al sintetizar la información, por lo que se les proporciona una estructura guía para facilitar el trabajo.</p>\n<p>El producto debe incluir:<br />- Tipo de ecosistema<br />- Factores bióticos y abióticos<br />- Relaciones entre seres vivos<br />- Ejemplos visuales<br />- Conclusión final del grupo</p>\n<p>La exposición se realiza en grupo, favoreciendo la comunicación oral y el uso de recursos digitales.</p>\n<p>RECURSOS:<br title=\"\" />- Canva educativo: <a href=\"El%20producto%20final%20consistirá%20en%20una%20presentación%20digital%20sobre%20un%20ecosistema%20concreto.%20%20El%20alumnado%20deberá%20incluir:%20-%20Tipo%20de%20ecosistema%20-%20Componentes%20bióticos%20y%20abióticos%20-%20Relaciones%20entre%20seres%20vivos%20-%20Imágenes%20o%20esquemas%20-%20Conclusiones%20del%20trabajo%20%20La%20presentación%20se%20realizará%20en%20grupos%20y%20se%20expondrá%20al%20resto%20de%20la%20clase.%20%20RECURSOS:%20-%20Canva%20educativo:%20https://www.canva.com/es_es/educacion/%20-%20Genially:%20https://genial.ly/es/%20-%20Ejemplos%20de%20presentaciones:%20https://www.slideshare.net/\">https://www.canva.com/es_es/educacion/</a><br />- Genially:<a href=\"https://genial.ly/es/\"> https://genial.ly/es/</a><br />- Ejemplos de presentaciones: <a href=\"https://www.slideshare.net/\" title=\"\">https://www.slideshare.net/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37s2-qsp1yghk4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos – alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37s2-qsp1yghk4</odePageId>
+      <odeBlockId>block-1778092174550-a2qbd5rto</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37s2-qsp1yghk4</odePageId>
+          <odeBlockId>block-1778092174550-a2qbd5rto</odeBlockId>
+          <odeIdeviceId>idevice-1778092174546-njtl58rlm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado realiza la búsqueda y selección de información sobre ecosistemas utilizando recursos digitales.</p>
+<p>En mi experiencia, es habitual que algunos alumnos seleccionen información poco relevante, por lo que se les orienta hacia fuentes fiables.</p>
+<p>Se trabaja con herramientas colaborativas como Padlet para organizar la información.</p>
+<p>Se utilizará Padlet para organizar la información de forma colaborativa. <a href=" https://padlet.com/msanesc987/ecosistemas-1-eso-recursos-del-proyecto-alumnado-yny2cgtpw6yu60g3" title=""> https://padlet.com/msanesc987/ecosistemas-1-eso-recursos-del-proyecto-alumnado-yny2cgtpw6yu60g3</a></p>
+<p>Otros recursos:<br title="" />- Padlet: <a href="https://padlet.com/">https://padlet.com/</a><br />- Wakelet: <a href="https://wakelet.com/">https://wakelet.com/</a><br />- National Geographic Kids: <a href="https://kids.nationalgeographic.com/nature">https://kids.nationalgeographic.com/nature</a><br />- EcoKids: <a href="https://www.ecokids.ca/">https://www.ecokids.ca/</a><br />- Wikipedia apoyo: <a href="https://es.wikipedia.org/wiki/Ecosistema" title="">https://es.wikipedia.org/wiki/Ecosistema</a></p>
+<p>Se refuerza la idea de seleccionar información antes de copiarla directamente. <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092174546-njtl58rlm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado realiza la búsqueda y selección de información sobre ecosistemas utilizando recursos digitales.</p>\n<p>En mi experiencia, es habitual que algunos alumnos seleccionen información poco relevante, por lo que se les orienta hacia fuentes fiables.</p>\n<p>Se trabaja con herramientas colaborativas como Padlet para organizar la información.</p>\n<p>Se utilizará Padlet para organizar la información de forma colaborativa. <a href=\" https://padlet.com/msanesc987/ecosistemas-1-eso-recursos-del-proyecto-alumnado-yny2cgtpw6yu60g3\" title=\"\"> https://padlet.com/msanesc987/ecosistemas-1-eso-recursos-del-proyecto-alumnado-yny2cgtpw6yu60g3</a></p>\n<p>Otros recursos:<br title=\"\" />- Padlet: <a href=\"https://padlet.com/\">https://padlet.com/</a><br />- Wakelet: <a href=\"https://wakelet.com/\">https://wakelet.com/</a><br />- National Geographic Kids: <a href=\"https://kids.nationalgeographic.com/nature\">https://kids.nationalgeographic.com/nature</a><br />- EcoKids: <a href=\"https://www.ecokids.ca/\">https://www.ecokids.ca/</a><br />- Wikipedia apoyo: <a href=\"https://es.wikipedia.org/wiki/Ecosistema\" title=\"\">https://es.wikipedia.org/wiki/Ecosistema</a></p>\n<p>Se refuerza la idea de seleccionar información antes de copiarla directamente. <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37s3-zn0v9ky37</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos – docente</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37s3-zn0v9ky37</odePageId>
+      <odeBlockId>block-1778092333500-m0o36lpap</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37s3-zn0v9ky37</odePageId>
+          <odeBlockId>block-1778092333500-m0o36lpap</odeBlockId>
+          <odeIdeviceId>idevice-1778092333497-q7zl1qhp5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El docente utiliza diferentes herramientas digitales para la planificación, seguimiento y evaluación del proyecto.</p>
+<p>En la práctica diaria, estas herramientas facilitan la organización del trabajo del alumnado y la comunicación educativa.</p>
+<p>Herramientas utilizadas:<br title="" />- Google Drive: <a href="https://drive.google.com/">https://drive.google.com/</a><br />- Google Docs: <a href="https://docs.google.com/">https://docs.google.com/</a><br />- Google Classroom: <a href="https://classroom.google.com/">https://classroom.google.com/</a><br />- Google Calendar: <a href="https://calendar.google.com/">https://calendar.google.com/</a><br />- Moodle Andalucía: <a href="https://educacionadistancia.juntadeandalucia.es/">https://educacionadistancia.juntadeandalucia.es/</a><br />- Séneca: <a href="https://seneca.juntadeandalucia.es/" title="">https://seneca.juntadeandalucia.es/</a></p>
+<p>Estas herramientas permiten un seguimiento más individualizado del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092333497-q7zl1qhp5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El docente utiliza diferentes herramientas digitales para la planificación, seguimiento y evaluación del proyecto.</p>\n<p>En la práctica diaria, estas herramientas facilitan la organización del trabajo del alumnado y la comunicación educativa.</p>\n<p>Herramientas utilizadas:<br title=\"\" />- Google Drive: <a href=\"https://drive.google.com/\">https://drive.google.com/</a><br />- Google Docs: <a href=\"https://docs.google.com/\">https://docs.google.com/</a><br />- Google Classroom: <a href=\"https://classroom.google.com/\">https://classroom.google.com/</a><br />- Google Calendar: <a href=\"https://calendar.google.com/\">https://calendar.google.com/</a><br />- Moodle Andalucía: <a href=\"https://educacionadistancia.juntadeandalucia.es/\">https://educacionadistancia.juntadeandalucia.es/</a><br />- Séneca: <a href=\"https://seneca.juntadeandalucia.es/\" title=\"\">https://seneca.juntadeandalucia.es/</a></p>\n<p>Estas herramientas permiten un seguimiento más individualizado del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37s3-axqj4fo9o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37s3-axqj4fo9o</odePageId>
+      <odeBlockId>block-1778092828831-y2yjeflhe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37s3-axqj4fo9o</odePageId>
+          <odeBlockId>block-1778092828831-y2yjeflhe</odeBlockId>
+          <odeIdeviceId>idevice-1778092828828-jyr3z0r91</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La línea temporal organiza el desarrollo del proyecto “Exploradores de los ecosistemas” en 9 sesiones.</p>
+<p>Se estructuran las siguientes fases:<br title="" />- Introducción al proyecto<br />- Formación de grupos<br />- Búsqueda de información<br />- Selección y organización de contenidos<br />- Elaboración del producto digital<br />- Preparación de la exposición oral<br />- Exposición final<br />- Evaluación del proyecto</p>
+<p><a href="https://canva.link/nyzw9ykbyw28ssx">https://canva.link/nyzw9ykbyw28ssx</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092828828-jyr3z0r91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La línea temporal organiza el desarrollo del proyecto “Exploradores de los ecosistemas” en 9 sesiones.</p>\n<p>Se estructuran las siguientes fases:<br title=\"\" />- Introducción al proyecto<br />- Formación de grupos<br />- Búsqueda de información<br />- Selección y organización de contenidos<br />- Elaboración del producto digital<br />- Preparación de la exposición oral<br />- Exposición final<br />- Evaluación del proyecto</p>\n<p><a href=\"https://canva.link/nyzw9ykbyw28ssx\">https://canva.link/nyzw9ykbyw28ssx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37s4-ywrosr8y7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37s4-ywrosr8y7</odePageId>
+      <odeBlockId>block-1778093008258-i6hdvn0ym</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37s4-ywrosr8y7</odePageId>
+          <odeBlockId>block-1778093008258-i6hdvn0ym</odeBlockId>
+          <odeIdeviceId>idevice-1778093008254-dff0o1zu3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los criterios de evaluación se aplican de forma integrada durante todo el proyecto, no de manera aislada.</p>
+<p>En la práctica, evalúo si el alumnado:<br />- Comprende los ecosistemas y sus componentes<br />- Utiliza información científica básica de forma adecuada<br />- Trabaja de forma cooperativa en grupo<br />- Utiliza herramientas digitales para comunicar información<br />- Expone oralmente sus conclusiones con claridad</p>
+<p>Estos criterios se relacionan directamente con las tareas del proyecto: investigación, elaboración del producto y exposición final.</p>
+<p><a href="https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0#heading=h.v3kpl8zcktok" title="">https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778093008254-dff0o1zu3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los criterios de evaluación se aplican de forma integrada durante todo el proyecto, no de manera aislada.</p>\n<p>En la práctica, evalúo si el alumnado:<br />- Comprende los ecosistemas y sus componentes<br />- Utiliza información científica básica de forma adecuada<br />- Trabaja de forma cooperativa en grupo<br />- Utiliza herramientas digitales para comunicar información<br />- Expone oralmente sus conclusiones con claridad</p>\n<p>Estos criterios se relacionan directamente con las tareas del proyecto: investigación, elaboración del producto y exposición final.</p>\n<p><a href=\"https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37s5-1fjp9urs5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37s5-1fjp9urs5</odePageId>
+      <odeBlockId>block-1778093503236-sl6m4486x</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37s5-1fjp9urs5</odePageId>
+          <odeBlockId>block-1778093503236-sl6m4486x</odeBlockId>
+          <odeIdeviceId>idevice-1778093503232-64pujopmk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto utilizo dos instrumentos principales de evaluación que me permiten observar tanto el proceso como el producto final del alumnado.</p>
+<p>1. RÚBRICA DE PRESENTACIÓN DIGITAL</p>
+<p>La utilizo para valorar el trabajo final del grupo.</p>
+<p>En el aula, este instrumento me ayuda a detectar:<br />- Cómo han entendido los conceptos del ecosistema<br />- Si han sabido seleccionar la información relevante<br />- Cómo se han organizado dentro del grupo<br />- El uso real de herramientas digitales como Canva</p>
+<p>Se aplica al final del trabajo antes de la exposición.</p>
+<p>2. LISTA DE COTEJO – EXPOSICIÓN ORAL</p>
+<p>La utilizo durante las exposiciones orales.</p>
+<p>Me permite registrar de forma rápida:<br />- Si explican con claridad<br />- Si utilizan lenguaje científico básico<br />- Si participan todos los miembros<br />- Si apoyan la explicación con recursos digitales</p>
+<p>En ocasiones reviso la exposición posteriormente si necesito afinar la valoración.</p>
+<p><br /></p>
+<p>Estos instrumentos me permiten ajustar la evaluación a la realidad del aula y detectar dificultades tanto en contenido como en comunicación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778093503232-64pujopmk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto utilizo dos instrumentos principales de evaluación que me permiten observar tanto el proceso como el producto final del alumnado.</p>\n<p>1. RÚBRICA DE PRESENTACIÓN DIGITAL</p>\n<p>La utilizo para valorar el trabajo final del grupo.</p>\n<p>En el aula, este instrumento me ayuda a detectar:<br />- Cómo han entendido los conceptos del ecosistema<br />- Si han sabido seleccionar la información relevante<br />- Cómo se han organizado dentro del grupo<br />- El uso real de herramientas digitales como Canva</p>\n<p>Se aplica al final del trabajo antes de la exposición.</p>\n<p>2. LISTA DE COTEJO – EXPOSICIÓN ORAL</p>\n<p>La utilizo durante las exposiciones orales.</p>\n<p>Me permite registrar de forma rápida:<br />- Si explican con claridad<br />- Si utilizan lenguaje científico básico<br />- Si participan todos los miembros<br />- Si apoyan la explicación con recursos digitales</p>\n<p>En ocasiones reviso la exposición posteriormente si necesito afinar la valoración.</p>\n<p><br /></p>\n<p>Estos instrumentos me permiten ajustar la evaluación a la realidad del aula y detectar dificultades tanto en contenido como en comunicación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37s5-happj1e2s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad (DUA)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad (DUA)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad (DUA)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37s5-happj1e2s</odePageId>
+      <odeBlockId>block-1778096157645-uznksr1fs</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37s5-happj1e2s</odePageId>
+          <odeBlockId>block-1778096157645-uznksr1fs</odeBlockId>
+          <odeIdeviceId>idevice-1778096157639-a0mihueqt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto se aplica un enfoque basado en el Diseño Universal para el Aprendizaje (DUA), con el objetivo de facilitar la participación de todo el alumnado.</p>
+<p>En el aula es habitual que existan diferentes ritmos de aprendizaje, por lo que se ofrecen distintas formas de acceso a la información.</p>
+<p>MEDIDAS APLICADAS:<br />- Uso de vídeos, imágenes y esquemas<br />- Explicaciones orales complementarias<br />- Trabajo en grupo heterogéneo<br />- Apoyo en herramientas digitales sencillas</p>
+<p>Esto permite que el alumnado pueda participar desde sus fortalezas, reduciendo barreras de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096157639-a0mihueqt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto se aplica un enfoque basado en el Diseño Universal para el Aprendizaje (DUA), con el objetivo de facilitar la participación de todo el alumnado.</p>\n<p>En el aula es habitual que existan diferentes ritmos de aprendizaje, por lo que se ofrecen distintas formas de acceso a la información.</p>\n<p>MEDIDAS APLICADAS:<br />- Uso de vídeos, imágenes y esquemas<br />- Explicaciones orales complementarias<br />- Trabajo en grupo heterogéneo<br />- Apoyo en herramientas digitales sencillas</p>\n<p>Esto permite que el alumnado pueda participar desde sus fortalezas, reduciendo barreras de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37s6-71e3fujjd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Cierre del proyecto</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cierre del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cierre del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37s6-71e3fujjd</odePageId>
+      <odeBlockId>block-1778096203096-4z81j4g2v</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37s6-71e3fujjd</odePageId>
+          <odeBlockId>block-1778096203096-4z81j4g2v</odeBlockId>
+          <odeIdeviceId>idevice-1778096203091-iunuanv7l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto permite al alumnado aplicar lo aprendido sobre los ecosistemas de forma práctica.</p>
+<p>A lo largo del proceso he observado que el trabajo en grupo y el uso de herramientas digitales mejora la motivación, aunque algunos alumnos necesitan apoyo en la organización de la información.</p>
+<p>La fase final de exposición permite valorar tanto el conocimiento como la capacidad de comunicación.</p>
+<p>Este tipo de proyectos facilita un aprendizaje más competencial y significativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096203091-iunuanv7l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto permite al alumnado aplicar lo aprendido sobre los ecosistemas de forma práctica.</p>\n<p>A lo largo del proceso he observado que el trabajo en grupo y el uso de herramientas digitales mejora la motivación, aunque algunos alumnos necesitan apoyo en la organización de la información.</p>\n<p>La fase final de exposición permite valorar tanto el conocimiento como la capacidad de comunicación.</p>\n<p>Este tipo de proyectos facilita un aprendizaje más competencial y significativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7e37s7-gzj41ktev</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7e37s7-gzj41ktev</odePageId>
+      <odeBlockId>block-1778096277232-7eea6gl10</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7e37s7-gzj41ktev</odePageId>
+          <odeBlockId>block-1778096277232-7eea6gl10</odeBlockId>
+          <odeIdeviceId>idevice-1778096277228-3ejmdl9yx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Proyecto: Exploradores de los ecosistemas<br />Asignatura: Biología y Geología (1º ESO)<br />Herramienta: eXeLearning</p>
+<p>Recursos utilizados:<br />- Canva<br />- Padlet</p>
+<p>Licencia: Uso educativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096277228-3ejmdl9yx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Proyecto: Exploradores de los ecosistemas<br />Asignatura: Biología y Geología (1º ESO)<br />Herramienta: eXeLearning</p>\n<p>Recursos utilizados:<br />- Canva<br />- Padlet</p>\n<p>Licencia: Uso educativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
